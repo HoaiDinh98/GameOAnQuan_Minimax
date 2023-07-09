@@ -1,0 +1,10 @@
+D:\Năm 3\AI\DoAnOAnQuan\ThuVienClass\bin\Debug\ThuVienClass.dll
+D:\Năm 3\AI\DoAnOAnQuan\ThuVienClass\bin\Debug\ThuVienClass.pdb
+D:\Năm 3\AI\DoAnOAnQuan\ThuVienClass\obj\Debug\ThuVienClass.csprojResolveAssemblyReference.cache
+D:\Năm 3\AI\DoAnOAnQuan\ThuVienClass\obj\Debug\ThuVienClass.dll
+D:\Năm 3\AI\DoAnOAnQuan\ThuVienClass\obj\Debug\ThuVienClass.pdb
+D:\Năm 3\Nhom19\13-12-old\DoAnOAnQuan\ThuVienClass\bin\Debug\ThuVienClass.dll
+D:\Năm 3\Nhom19\13-12-old\DoAnOAnQuan\ThuVienClass\bin\Debug\ThuVienClass.pdb
+D:\Năm 3\Nhom19\13-12-old\DoAnOAnQuan\ThuVienClass\obj\Debug\ThuVienClass.csprojResolveAssemblyReference.cache
+D:\Năm 3\Nhom19\13-12-old\DoAnOAnQuan\ThuVienClass\obj\Debug\ThuVienClass.dll
+D:\Năm 3\Nhom19\13-12-old\DoAnOAnQuan\ThuVienClass\obj\Debug\ThuVienClass.pdb

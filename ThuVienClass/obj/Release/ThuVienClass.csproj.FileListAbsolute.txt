@@ -1,0 +1,5 @@
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\ThuVienClass\bin\Release\ThuVienClass.dll
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\ThuVienClass\bin\Release\ThuVienClass.pdb
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\ThuVienClass\obj\Release\ThuVienClass.csproj.CoreCompileInputs.cache
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\ThuVienClass\obj\Release\ThuVienClass.dll
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\ThuVienClass\obj\Release\ThuVienClass.pdb

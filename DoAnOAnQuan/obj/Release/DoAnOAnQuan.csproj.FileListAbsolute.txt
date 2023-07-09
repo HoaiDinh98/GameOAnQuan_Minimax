@@ -1,0 +1,17 @@
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\bin\Release\DoAnOAnQuan.exe.config
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\bin\Release\DoAnOAnQuan.exe
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\bin\Release\DoAnOAnQuan.pdb
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\bin\Release\ThuVienClass.dll
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\bin\Release\ThuVienClass.pdb
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.csproj.AssemblyReference.cache
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.frm_HuongDan.resources
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.frm_Menu.resources
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.frm_PVC.resources
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.frm_PVP.resources
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.frm_ThongTin.resources
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.Properties.Resources.resources
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.csproj.GenerateResource.cache
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.csproj.CoreCompileInputs.cache
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.csproj.CopyComplete
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.exe
+D:\Năm 3\Nhom19\13-12-new\DoAnOAnQuan\DoAnOAnQuan\obj\Release\DoAnOAnQuan.pdb
